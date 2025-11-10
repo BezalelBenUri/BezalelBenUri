@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Augustus Inyang
 
 A Geomatics Solutions Architect, delivering high performance and scalable systems powered by geospatial intelligence, modern APIs, advanced frontend technologies and machine learning.
-🔭 I’m currently working on https://github.com/BezalelBenUri/land-paddy - A land marketplace (Next.JS, FastAPI, PostgresSql)
+🔭 I’m currently solo working on https://github.com/BezalelBenUri/land-paddy - A land marketplace (Next.JS, FastAPI, PostgresSql)
 <br><br>🌱 A graduate of ALX Software Engineering<br>⚡ Fun fact: I am a natural
 
 
